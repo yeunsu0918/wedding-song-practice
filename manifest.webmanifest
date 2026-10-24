@@ -1,0 +1,18 @@
+{
+  "name": "지호와 연수의 축가 연습",
+  "short_name": "축가 연습",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#f7f7f2",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
